@@ -1,5 +1,9 @@
 # Native-Charts
-Native Charts in Java Script
+Native Charts in Javascript, shown in the book entitled 'Algorithms in Bioinformatics: Theory and Implementation'.
+
+
+# References
+<i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
 
 # Some screenshots
 ![Screenshot](https://github.com/Gagniuc/Native-Charts/blob/main/%5BChart%203%5D%20(circular%20animated%20-%20decent).gif)
