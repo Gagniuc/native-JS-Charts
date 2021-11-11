@@ -1,4 +1,4 @@
-# Native-Charts
+# native - Java Script Charts
 Native Charts in Javascript, shown in the book entitled 'Algorithms in Bioinformatics: Theory and Implementation'.
 
 
