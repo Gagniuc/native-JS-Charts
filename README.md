@@ -1,6 +1,6 @@
 # native - Java Script Charts
-Native Charts in Javascript, shown in the book entitled 'Algorithms in Bioinformatics: Theory and Implementation'.
 
+The projects in this repository show a series of js charts of two types. Both of these types use the HTML5 canvas object. The first type of chart provides a normal linear plot and probably shows the shortest source code for a chart made in javascript. The second type of chart has a circular design and contains many physical effects in relation to  elasticity. These charts can be further developed for different websites that require data views in a context that allows different effects. These native Charts in Javascript, were published in the supplementary materials of the book entitled <i>Algorithms in Bioinformatics: Theory and Implementation</i>.
 
 # References
 <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
