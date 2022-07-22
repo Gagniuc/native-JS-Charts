@@ -13,7 +13,8 @@ The projects in this repository show a series of js charts of two types. Both of
 
 <kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/img/%5BChart%2010%5D%20(circular%20animated%20-%20fantastic).gif" width="150" /></kbd>
 <kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/img/%5BChart%2011%5D%20(circular%20animated%20-%20even%20more%20fantastic).gif" width="150" /></kbd>
- 
+<kbd><img src="https://github.com/Gagniuc/native-JS-Charts/blob/main/img/circular%202.png?raw=true" width="150" /></kbd>
+
 # References
 
 - <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
